@@ -17,7 +17,7 @@ I am currently exploring workflows that combine company reports, financial data 
 
 | Project | Focus |
 |---|---|
-| [European Competition Analysis](https://github.com/E-oyn/VAR-Analysis-with-European-Competetion-Data) | Preparation and exploratory analysis of German competition, productivity and interest-rate indicators |
+| [European Competition Analysis](https://github.com/E-oyn/VAR-Analysis-with-European-Competetion-Data) | Preparation and exploratory time-series analysis of German competition, productivity and long-term interest-rate indicators as groundwork for VAR analysis |
 | [Text-Reader](https://github.com/E-oyn/Text-Reader) | Conversion of keyword-based text events into structured analytical data |
 | [Portfolio Risk Calculations](https://github.com/E-oyn/Portfolio-Risk-Calculations) | Portfolio return, volatility, covariance and diversification analysis |
 | [Black-and-Scholes Sketch](https://github.com/E-oyn/Black-and-Scholes-sketch) | Exploratory implementation of European call and put option pricing |
